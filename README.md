@@ -62,4 +62,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-> **Note:** This is a team project. For full access to the private repository and collaboration history, please request access or view the public fork and documentation provided here.
+> **Note:** This is a team project. For full access to the private repository and collaboration history, please request access or view the public fork and documentation provided [here.](https://github.com/ngocnhatAI/Named-Entity-Recognition).
